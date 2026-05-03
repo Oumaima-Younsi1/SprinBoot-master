@@ -9,5 +9,4 @@ class OumiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
