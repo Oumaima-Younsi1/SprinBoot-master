@@ -19,7 +19,8 @@ public class AddressService {
         return addressRepository.save(address);
     }
 
-    public List<Address> findAll() {
+    public List<Address> findAll()
+    {
         return addressRepository.findAll();
     }
 }
